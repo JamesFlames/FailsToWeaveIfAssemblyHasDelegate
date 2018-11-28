@@ -1,0 +1,9 @@
+E:\DevArea\FodyCollection\MethodBoundaryAspect.Fody\FailsToWeave\obj\Debug\FailsToWeave.csprojAssemblyReference.cache
+E:\DevArea\FodyCollection\MethodBoundaryAspect.Fody\FailsToWeave\obj\Debug\FailsToWeave.csproj.CoreCompileInputs.cache
+E:\DevArea\FodyCollection\MethodBoundaryAspect.Fody\FailsToWeave\bin\Debug\FailsToWeave.dll
+E:\DevArea\FodyCollection\MethodBoundaryAspect.Fody\FailsToWeave\bin\Debug\FailsToWeave.pdb
+E:\DevArea\FodyCollection\MethodBoundaryAspect.Fody\FailsToWeave\bin\Debug\MethodBoundaryAspect.dll
+E:\DevArea\FodyCollection\MethodBoundaryAspect.Fody\FailsToWeave\bin\Debug\MethodBoundaryAspect.pdb
+E:\DevArea\FodyCollection\MethodBoundaryAspect.Fody\FailsToWeave\obj\Debug\FailsToWeave.csproj.CopyComplete
+E:\DevArea\FodyCollection\MethodBoundaryAspect.Fody\FailsToWeave\obj\Debug\FailsToWeave.dll
+E:\DevArea\FodyCollection\MethodBoundaryAspect.Fody\FailsToWeave\obj\Debug\FailsToWeave.pdb
